@@ -2,7 +2,7 @@
 # ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
 *Grab an updated copy of the file(s) today!*<br>
 
-### **<ins>[AdAway](https://github.com/AdAway/AdAway)</ins> . <ins>[Blokada](https://github.com/blokadaorg/blokada)</ins> . <ins>[Nebulo](https://github.com/Ch4t4r/Nebulo)</ins> . <ins>[Pi-hole](https://github.com/pi-hole/pi-hole)</ins>**
+### **<ins>[AdAway](https://github.com/AdAway/AdAway)</ins> . <ins>[Blokada](https://github.com/blokadaorg/blokada)</ins> . <ins>[Pi-hole](https://github.com/pi-hole/pi-hole)</ins>**
 [o0.pages.dev/Lite/hosts.txt](https://o0.pages.dev/Lite/hosts.txt)  <br>
 [o0.pages.dev/Pro/hosts.txt](https://o0.pages.dev/Pro/hosts.txt)  <br>
 [o0.pages.dev/mini/hosts.txt](https://o0.pages.dev/mini/hosts.txt)  <br>
@@ -68,7 +68,7 @@
 [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/adblock.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/adblock.txt)  <br>
 <br>
 
-### **<ins>[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)</ins> . <ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins>**
+### **<ins>[Nebulo](https://github.com/Ch4t4r/Nebulo)</ins> . <ins>[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)</ins> . <ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins>**
 [o0.pages.dev/Lite/wildcards.txt](https://o0.pages.dev/Lite/wildcards.txt)  <br>
 [o0.pages.dev/Pro/wildcards.txt](https://o0.pages.dev/Pro/wildcards.txt)  <br>
 [o0.pages.dev/mini/wildcards.txt](https://o0.pages.dev/mini/wildcards.txt)  <br>
