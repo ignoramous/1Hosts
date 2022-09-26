@@ -540,3 +540,5 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <a href="https://socialgrep.com/search?query=1hosts%2Cpro">comments: 1Hosts (Pro)</a> <br>
 </p>
 
+----------------
+Join us: [t.me/one_hosts](https://t.me/one_hosts)
