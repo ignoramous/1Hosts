@@ -562,7 +562,7 @@ updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT suppor
 </tr>
 <tr>
 <td>1Hosts (Xtra)</td>
-<td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
+<td><a href="https://blitz.ahadns.com/1:6">https://blitz.ahadns.com/1:5</a></td>
 </tr>
 </tbody>
 </table>
