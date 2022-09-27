@@ -501,7 +501,108 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 
 - If **Lite** is too harsh for your taste, downgrade to ***mini***.<br>
 - If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
-- ***Pro*** still not enough? Use **Xtra**.<br>
+- ***Pro*** still not enough? Use **Xtra**.<br><br>
+ 
+ 
+**Use these free dns resolvers to immediately start using 1Hosts.**<br>
+<a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
+updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>IPv4</th>
+<th>IPv6</th>
+<th>DNS-over-HTTPS</th>
+<th>DNS-over-TLS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1Hosts (Lite)</td>
+<td>76.76.2.38 76.76.10.38</td>
+<td>2606:1a40::38 2606:1a40:1::38</td>
+<td><a href="https://freedns.controld.com/x-1hosts-lite">https://freedns.controld.com/x-1hosts-lite</a></td>
+<td>x-1hosts-lite.freedns.controld.com</td>
+</tr>
+<tr>
+<td>1Hosts (Pro)</td>
+<td>76.76.2.39 76.76.10.39</td>
+<td>2606:1a40::39 2606:1a40:1::39</td>
+<td><a href="https://freedns.controld.com/x-1hosts-pro">https://freedns.controld.com/x-1hosts-pro</a></td>
+<td>x-1hosts-pro.freedns.controld.com</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<strong><em>nextDNS: </em></strong>
+updates every 30 minutes; supports subdomain/wildcard & CNAME blocking; capped at 300k queries per month (free users); sign up required.<br>
+Click <a href="https://nextdns.io/?from=jdduxcbq">here</a>.
+
+<br>
+
+<a href="https://blitz-setup.ahadns.com/"><strong><em>AhaDNS: </em></strong></a>
+updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT support; unlimited queries.<br>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>DNS-over-HTTPS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1Hosts (Lite)</td>
+<td><a href="https://blitz.ahadns.com/1:4">https://blitz.ahadns.com/1:4</a></td>
+</tr>
+<tr>
+<td>1Hosts (Pro)</td>
+<td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
+</tr>
+<tr>
+<td>1Hosts (Xtra)</td>
+<td><a href="https://blitz.ahadns.com/1:5">https://blitz.ahadns.com/1:5</a></td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<a href="https://rethinkdns.com"><strong><em>RethinkDNS: </em></strong></a>
+Infrequent updates; no support for subdomain/wildcard & CNAME blocking; unlimited queries.<br>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>DNS-over-HTTPS</th>
+<th>DNS-over-TLS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1Hosts (mini)</td>
+<td><a href="https://basic.rethinkdns.com/1:AAQBAA==">https://basic.rethinkdns.com/1:AAQBAA==</a></td>
+<td>1-aacacaa.max.rethinkdns.com</td>
+</tr>
+<tr>
+<td>1Hosts (Lite)</td>
+<td><a href="https://basic.rethinkdns.com/1:AAQCAA==">https://basic.rethinkdns.com/1:AAQCAA==</a></td>
+<td>1-aacaeaa.max.rethinkdns.com</td>
+</tr>
+<tr>
+<td>1Hosts (Pro)</td>
+<td><a href="https://basic.rethinkdns.com/1:AAIAgA==">https://basic.rethinkdns.com/1:AAIAgA==</a></td>
+<td>1-aababaa.max.rethinkdns.com</td>
+</tr>
+<tr>
+<td>1Hosts (Xtra)</td>
+<td><a href="https://basic.rethinkdns.com/1:IAAQAA==">https://basic.rethinkdns.com/1:IAAQAA==</a></td>
+<td>1-eaabaaa.max.rethinkdns.com</td>
+</tr>
+</tbody>
+</table>
+
+
 <br>
 <br>
 <p align="center"><strong>Credits & ©:</strong> <br>
@@ -525,13 +626,6 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <a href="https://nlnetlabs.nl/projects/unbound/about/">Unbound</a> <br>
 </p>
 
-<p align="center"><strong>Client DNS:</strong> <br>
-  <a href="https://my.nextdns.io/start">NextDNS</a> . 
-  <a href="https://controld.com/">ControlD</a> . 
-  <a href="https://blitz.ahadns.com/">AhaDNS</a> . 
-  <a href="https://rethinkdns.com">RethinkDNS</a>
-</p>
-
 <p align="center"><strong>users. fans. mentions.</strong> <br>
 <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
 <a href="https://github.com/yokoffing/NextDNS-Config">github.com/yokoffing/NextDNS-Config</a> <br>
@@ -540,8 +634,9 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <a href="https://socialgrep.com/search?query=1hosts%2Cpro">comments: 1Hosts (Pro)</a> <br>
 </p>
 
-**Join us today!**
 ----------------
-<ul>
-  <li><a href="https://t.me/one_hosts">t.me/one_hosts</a></li>
-</ul>
+<p>
+<a href="https://www.patreon.com/join/badmojr/"><img src="./-data/static/img/patron.png" title="Become a patron"></a>
+&nbsp;
+<a href="https://t.me/one_hosts"><img src="./-data/static/img/tg.png" title="Join us on Telegram"></a>
+</p>
