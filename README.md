@@ -569,7 +569,7 @@ updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT suppor
 <br>
 
 <a href="https://rethinkdns.com"><strong><em>RethinkDNS: </em></strong></a>
-Infrequent updates; no support for subdomain/wildcard blocking; supports CNAME blocking; unlimited queries.<br>
+Infrequent updates; supports subdomain/wildcard blocking; supports CNAME blocking; unlimited queries.<br>
 <table>
 <thead>
 <tr>
